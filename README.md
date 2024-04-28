@@ -16,11 +16,13 @@ let products = [
 ]
 ```
 
-> **&#9432;** About the above article</br>
+ **&#9432;** About the above article</br>
  To avoid slowness and delay on the site, I used the createDocumentFragment() method to create HTML elements.</br>
  **Syntax** :
  ```javascript
 document.createDocumentFragment()
 ```
 
-demo =>  https://alirezanezami1.github.io/-Multi-Page-Furniture-Website/
+___
+
+**Click to view the project [demo](https://alirezanezami1.github.io/-Multi-Page-Furniture-Website/)**

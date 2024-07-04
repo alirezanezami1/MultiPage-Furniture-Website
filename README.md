@@ -25,4 +25,4 @@ document.createDocumentFragment()
 
 ___
 
-**Click to view the project [demo](https://alirezanezami1.github.io/-Multi-Page-Furniture-Website/)**
+**Click to view the project [demo](https://alirezanezami1.github.io/MultiPage-Furniture-Website/)**
